@@ -9,6 +9,12 @@
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with programming or ux design
 
+<!-- Links -->
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@APENASTIOVINAS-oz9no)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini_bolseiro/)
+
+
+
 
 
 <!-- Dropdown -->
@@ -20,7 +26,4 @@
   - ⚡I like reading, whether it's a good book, watching different movies and playing video games.
 
 
-
-[![Youtube](https://www.youtube.com/@APENASTIOVINAS-oz9no)
-[![Instagram](https://www.instagram.com/vini_bolseiro/)
 
